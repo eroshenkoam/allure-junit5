@@ -1,0 +1,422 @@
+{
+  "620d07807ca79f9e5e87896480ad8d5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0caed29c357a298",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/f0caed29c357a298",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638744,
+        "stop" : 1616016638771,
+        "duration" : 27
+      }
+    } ]
+  },
+  "49d1590e00a769f99ec29bb3c3afc061" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9924b237cbebff0",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/f9924b237cbebff0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638867,
+        "stop" : 1616016638871,
+        "duration" : 4
+      }
+    } ]
+  },
+  "888d6ce3d54c075b355edef8a550d3e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2ac81c7f1521395",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/d2ac81c7f1521395",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638711,
+        "stop" : 1616016638713,
+        "duration" : 2
+      }
+    } ]
+  },
+  "a40352f99151a46c752fc3ec589755ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79b0fd52907d2297",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/79b0fd52907d2297",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016639083,
+        "stop" : 1616016639084,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e72ceced2ba201dd84aa286b27c25cf5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75504392e553a1d8",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/75504392e553a1d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638965,
+        "stop" : 1616016638968,
+        "duration" : 3
+      }
+    } ]
+  },
+  "f5955d5b4d13b11d79642efb1b2aa1b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768d2c0371598b37",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/768d2c0371598b37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638902,
+        "stop" : 1616016638918,
+        "duration" : 16
+      }
+    } ]
+  },
+  "5fb966333819fa26e844f50fb3c94ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f584634d6f74f5c",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/f584634d6f74f5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638876,
+        "stop" : 1616016638880,
+        "duration" : 4
+      }
+    } ]
+  },
+  "9e55f0d894450a02a3e54e2cfc5f7565" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c68d5a9e909fdda1",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/c68d5a9e909fdda1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016639089,
+        "stop" : 1616016639089,
+        "duration" : 0
+      }
+    } ]
+  },
+  "95969ed9b863129edd300a018bc2e35d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d6bef8510e716db",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/5d6bef8510e716db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638944,
+        "stop" : 1616016638947,
+        "duration" : 3
+      }
+    } ]
+  },
+  "d1e7ef26935a03298135863195494995" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e80cdd9fedcddc19",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/e80cdd9fedcddc19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638805,
+        "stop" : 1616016638808,
+        "duration" : 3
+      }
+    } ]
+  },
+  "6903fb557e4b852c0a10beb25d8c00b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92f75c9af6348550",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/92f75c9af6348550",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638732,
+        "stop" : 1616016638739,
+        "duration" : 7
+      }
+    } ]
+  },
+  "d021c6235ae276cfae7203f6b6e4f52" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fefb4834dbf1fd0f",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/fefb4834dbf1fd0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638855,
+        "stop" : 1616016638856,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6db218d481fdd4273a96cec3375ad381" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39a4b28b9deb16e2",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/39a4b28b9deb16e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638785,
+        "stop" : 1616016638795,
+        "duration" : 10
+      }
+    } ]
+  },
+  "203c9f65749e70756e165c007c78d0e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bb3fc13447aeefa",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/3bb3fc13447aeefa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016639034,
+        "stop" : 1616016639075,
+        "duration" : 41
+      }
+    } ]
+  },
+  "c875080e70170feaa43c891f4208e1ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed3f90af1485d207",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/ed3f90af1485d207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638823,
+        "stop" : 1616016638831,
+        "duration" : 8
+      }
+    } ]
+  },
+  "b9aeaf82151429365307d67f6124b32d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17cbc7052fb490ba",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/17cbc7052fb490ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016639085,
+        "stop" : 1616016639085,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2b2e5648a05a602661d1b99b29714934" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edb739663682ab12",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/edb739663682ab12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016639079,
+        "stop" : 1616016639079,
+        "duration" : 0
+      }
+    } ]
+  },
+  "83a547efc1cf2d179d2407cb2ff9c7bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac644b4fb6eae5b4",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/ac644b4fb6eae5b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638521,
+        "stop" : 1616016638554,
+        "duration" : 33
+      }
+    } ]
+  },
+  "86dd0f67e9f519a32d3fbe13642ca7fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7003208bd2017667",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/7003208bd2017667",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638988,
+        "stop" : 1616016638990,
+        "duration" : 2
+      }
+    } ]
+  },
+  "ce19224c55a794134d254887e238792" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "345333e50382115e",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/345333e50382115e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638862,
+        "stop" : 1616016638864,
+        "duration" : 2
+      }
+    } ]
+  },
+  "7b5852e8ebd6349f1185ae6330cb5f6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57ee0d497d9b950c",
+      "reportUrl" : "https://eroshenkoam.github.io/allure-junit5/1//#testresult/57ee0d497d9b950c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616016638838,
+        "stop" : 1616016638840,
+        "duration" : 2
+      }
+    } ]
+  }
+}

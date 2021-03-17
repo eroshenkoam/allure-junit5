@@ -1,0 +1,61 @@
+{
+  "uid" : "fefb4834dbf1fd0f",
+  "name" : "staticLinkTest()",
+  "fullName" : "io.qameta.allure.examples.AllureLinkTest.staticLinkTest",
+  "historyId" : "d021c6235ae276cfae7203f6b6e4f52",
+  "time" : {
+    "start" : 1616016638855,
+    "stop" : 1616016638856,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az194-796"
+  }, {
+    "name" : "thread",
+    "value" : "3100@fv-az194-796.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.AllureLinkTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.AllureLinkTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "staticLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.AllureLinkTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Static link",
+    "url" : "https://qameta.io",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fefb4834dbf1fd0f.json",
+  "parameterValues" : [ ]
+}

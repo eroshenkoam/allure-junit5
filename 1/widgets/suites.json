@@ -1,0 +1,103 @@
+{
+  "total" : 9,
+  "items" : [ {
+    "uid" : "832eb8918a5203ed53b9e0894a76b013",
+    "name" : "io.qameta.allure.examples.AllureLabelsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "2ea728d59ea88e6191dabf515cc91282",
+    "name" : "io.qameta.allure.examples.AllureLinkTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "d5eb73b13b7ec1c4cc61d1406ffb7b2e",
+    "name" : "io.qameta.allure.examples.JUnit5ParameterizedTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "78aa68b7da73f7f74683e9752b9c57c7",
+    "name" : "io.qameta.allure.examples.AllureDescriptionTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "32eecdbfd73018547e680f4079a6d04d",
+    "name" : "io.qameta.allure.examples.AllureNameTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e16b1c8492ee5616c8ad8c11aecda3a7",
+    "name" : "io.qameta.allure.examples.AllureStepTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ce5cf656aa8e3571c5baf5373d982835",
+    "name" : "io.qameta.allure.examples.AllureAttachmentTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "3fcd312082b26e04ef9272b38c2d0ebd",
+    "name" : "io.qameta.allure.examples.JUnit5FixtureTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "32ec910572236cff2ee43d9d559dd62d",
+    "name" : "io.qameta.allure.examples.JUnit5QuickStartTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

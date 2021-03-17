@@ -1,0 +1,61 @@
+{
+  "uid" : "3bb3fc13447aeefa",
+  "name" : "allureParameterizedTest displayName [John]",
+  "fullName" : "io.qameta.allure.examples.JUnit5ParameterizedTest.allureParameterizedTest",
+  "historyId" : "203c9f65749e70756e165c007c78d0e6",
+  "time" : {
+    "start" : 1616016639034,
+    "stop" : 1616016639075,
+    "duration" : 41
+  },
+  "description" : "allureParameterizedTest description",
+  "descriptionHtml" : "<p>allureParameterizedTest description</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az194-796"
+  }, {
+    "name" : "thread",
+    "value" : "3100@fv-az194-796.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.JUnit5ParameterizedTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.JUnit5ParameterizedTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "allureParameterizedTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.JUnit5ParameterizedTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Name",
+    "value" : "John"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bb3fc13447aeefa.json",
+  "parameterValues" : [ "John" ]
+}
