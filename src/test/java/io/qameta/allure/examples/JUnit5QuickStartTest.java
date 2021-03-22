@@ -10,20 +10,19 @@ import static io.qameta.allure.Allure.step;
 public class JUnit5QuickStartTest {
 
     @Test
-    @DisplayName("allureSimpleTest displayName")
+    @DisplayName("Custom display name instead of default:  allureSimpleTest()")
     public void allureSimpleTest() {
         step("Simple step");
         step("Simple step with status", Status.FAILED);
         step("Simple lambda step", () -> {
             step("Simple step inside lambda step");
         });
-        simpleTestMethod("method parameter");
+        simpleMethodStep("method parameter");
     }
 
-    @Step("Simple test method with step annotation")
-    public void simpleTestMethod(String param) {
-        step("Method parameter: " + param);
-        step("Simple step inside test method");
+    @Step("Simple method with step annotation")
+    public void simpleMethodStep(String param) {
+        step("Simple step inside method with received param: " + param);
     }
 
 }
