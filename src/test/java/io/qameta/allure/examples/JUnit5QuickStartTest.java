@@ -22,8 +22,7 @@ public class JUnit5QuickStartTest {
 
     @Step("Simple method with step annotation")
     public void simpleMethodStep(String param) {
-        step("Method parameter: " + param);
-        step("Simple step inside method");
+        step("Simple step inside method with received param: " + param);
     }
 
 }
