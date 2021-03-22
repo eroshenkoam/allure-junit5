@@ -17,11 +17,11 @@ public class JUnit5QuickStartTest {
         step("Simple lambda step", () -> {
             step("Simple step inside lambda step");
         });
-        simpleTestMethod("method parameter");
+        simpleMethodStep("method parameter");
     }
 
     @Step("Simple test method with step annotation")
-    public void simpleTestMethod(String param) {
+    public void simpleMethodStep(String param) {
         step("Method parameter: " + param);
         step("Simple step inside test method");
     }
