@@ -10,7 +10,7 @@ import static io.qameta.allure.Allure.step;
 public class JUnit5QuickStartTest {
 
     @Test
-    @DisplayName("allureSimpleTest displayName")
+    @DisplayName("Custom display name instead of default:  allureSimpleTest()")
     public void allureSimpleTest() {
         step("Simple step");
         step("Simple step with status", Status.FAILED);
